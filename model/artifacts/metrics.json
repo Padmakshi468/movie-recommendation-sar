@@ -1,0 +1,15 @@
+{
+  "precision@10": 0.11023454157782517,
+  "recall@10": 0.1312669427527955,
+  "ndcg@10": 0.15177550342825902,
+  "map@10": 0.07624169368845224,
+  "coverage": 0.17433234421364985,
+  "similarity_type": "jaccard",
+  "time_decay_half_life": 30.0,
+  "threshold": 1,
+  "min_rating": 4.0,
+  "n_train": 43933,
+  "n_test": 11442,
+  "n_users": 942,
+  "n_items": 1348
+}

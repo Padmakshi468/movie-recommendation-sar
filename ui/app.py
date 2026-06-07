@@ -19,7 +19,7 @@ import requests
 import streamlit as st
 
 # ── config ────────────────────────────────────────────────────────────────────
-API_BASE    = "http://localhost:8000"
+API_BASE = "https://movie-recommendation-sar.onrender.com"
 APP_TITLE   = "CineMatch · SAR Recommender"
 TIMEOUT     = 20
 
